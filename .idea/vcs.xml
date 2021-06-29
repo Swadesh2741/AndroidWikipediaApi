@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Paging3-with-RoomDatabase-and-Retrofit-in-Android-Kotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ParseJSONRetrofitConvertersExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Restaurant-List-MVVM-Room-Retrofit-Hilt-Coroutines-Jetpack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WebViewPreCache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-hilt-fragmentfactory" vcs="Git" />
+  </component>
+</project>
